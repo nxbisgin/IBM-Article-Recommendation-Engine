@@ -1,5 +1,5 @@
 # IBM-Article-Recommendation-Engine
-Recommendations with IBM
+
 In this notebook, you will be putting your recommendation skills to use on real data from the IBM Watson Studio platform.
 
 You may either submit your notebook through the workspace here, or you may work from your local machine and submit through the next page. Either way assure that your code passes the project RUBRIC. Please save regularly.
